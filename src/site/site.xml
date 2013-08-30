@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/DECORATION/1.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd"
+         name="P6Spy">
+
+  <body>
+    <menu name="Overview">
+      <item name="Installation" href="install.html"/>
+      <item name="Configuration and Usage" href="configandusage.html"/>
+      <item name="Release Notes" href="releasenotes.html"/>
+      <item name="Known Issues" href="knownissues.html"/>
+      <item name="FAQ" href="faq.html"/>
+      <item name="Troubleshooting" href="troubleshooting.html"/>
+    </menu>
+    <menu ref="reports"/>
+  </body>
+
+</project>
