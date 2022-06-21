@@ -119,7 +119,7 @@
     <ant-build>1.8.4</ant-build>
     <log4j-build>1.2.17</log4j-build>
     <slf4j-build>1.5.8</slf4j-build>
-    <mysql-connector-java-build>5.1.21</mysql-connector-java-build>
+    <mysql-connector-java-build>8.0.28</mysql-connector-java-build>
     <postgresql-build>9.1-901.jdbc4</postgresql-build>
     <hsqldb-build>2.3.0</hsqldb-build>
     <h2-build>1.3.173</h2-build>
